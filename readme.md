@@ -29,3 +29,11 @@ Before running this application, make sure you have the following installed:
     npm install
     ```
 
+## Screenshots
+
+### Get all books
+<img src="screenshots/all_books.png"/>
+
+
+### Get book by id
+<img src="screenshots/book.png"/>
